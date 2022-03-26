@@ -1,0 +1,103 @@
+{
+  "sticker": {},
+  "database": {},
+  "game": {
+    "tebaklagu": [],
+    "family100": [],
+    "math": [],
+    "tebakgambar": [],
+    "tebakkata": [],
+    "lontong": [],
+    "lontong_desk": [],
+    "kalimat": [],
+    "lirik": [],
+    "tebakan": []
+  },
+  "others": {
+    "absen": []
+  },
+  "users": {
+    "6283159647567@s.whatsapp.net": {
+      "afkTime": -1,
+      "banned": false,
+      "afkReason": ""
+    },
+    "6285824629954@s.whatsapp.net": {
+      "afkTime": -1,
+      "banned": false,
+      "afkReason": ""
+    },
+    "628811503640@s.whatsapp.net": {
+      "afkTime": -1,
+      "banned": false,
+      "afkReason": ""
+    },
+    "6285878313791@s.whatsapp.net": {
+      "afkTime": -1,
+      "banned": false,
+      "afkReason": ""
+    },
+    "6287737619699@s.whatsapp.net": {
+      "afkTime": -1,
+      "banned": false,
+      "afkReason": ""
+    },
+    "6285868703627@s.whatsapp.net": {
+      "afkTime": -1,
+      "banned": false,
+      "afkReason": ""
+    },
+    "436506665652664@s.whatsapp.net": {
+      "afkTime": -1,
+      "banned": false,
+      "afkReason": ""
+    },
+    "62895613293360@s.whatsapp.net": {
+      "afkTime": -1,
+      "banned": false,
+      "afkReason": ""
+    }
+  },
+  "chats": {
+    "6283159647567@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false,
+      "antiwame": false,
+      "antivirtex": false,
+      "nsfw": false
+    },
+    "6285824629954@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false,
+      "antiwame": false,
+      "antivirtex": false,
+      "nsfw": false
+    },
+    "120363022124239312@g.us": {
+      "mute": false,
+      "antilink": false,
+      "antiwame": false,
+      "antivirtex": false,
+      "nsfw": false
+    },
+    "120363025081486209@g.us": {
+      "mute": false,
+      "antilink": false,
+      "antiwame": false,
+      "antivirtex": false,
+      "nsfw": false
+    },
+    "120363041036190772@g.us": {
+      "mute": false,
+      "antilink": true,
+      "antiwame": false,
+      "antivirtex": false,
+      "nsfw": false
+    }
+  },
+  "settings": {
+    "6283159647567@s.whatsapp.net": {
+      "anticall": false
+    }
+  }
+}
